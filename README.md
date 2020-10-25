@@ -5,6 +5,7 @@
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-razisyahputro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razisyahputro/)](https://www.linkedin.com/in/razi-aziz-syahputro/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/razidev?label=follow&style=social)](https://github.com/razidev)
+[![Email Badge](https://img.shields.io/badge/-razisyahputro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:razisyahputro@gmail.com)](mailto:razisyahputro@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -15,6 +16,7 @@ const razi = {
   code: [Javascript, Go, HTML, CSS],
   tools: [Node, Git, Redis, RabbitMQ, Docker],
   architecture: ["microservices", "event-driven", "monolithic"]
+}
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
