@@ -1,5 +1,5 @@
-<h2> Hi, I'm Razi Syahputro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="230">
+<h2> Hi, I'm Razi Syahputro! I'm a full-time software engineer and passionate to coding and investing <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://camo.githubusercontent.com/5d7bb187ae38dcf16cad39b6a668f4e0ba6f3351/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966" width="230">
 <p><em>Software Enginner at <a href="https://unsircle.id/">Unsircle</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
@@ -14,6 +14,7 @@
 const razi = {
   pronouns: "he" | "him",
   code: [Javascript, Go, HTML, CSS],
+  Database: [MongoDB, Mysql, Postgre],
   tools: [Node, Git, Redis, RabbitMQ, Docker],
   architecture: ["microservices", "event-driven", "monolithic"]
 }
@@ -22,5 +23,3 @@ const razi = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-
-⭐️ From [@RaziDev](https://github.com/razidev)
