@@ -1,7 +1,7 @@
 <h2> Hi, I'm Razi Syahputro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h5>I'm a full-time software engineer and passionate to coding and investing</h5>
 <img align='right' src="https://camo.githubusercontent.com/5d7bb187ae38dcf16cad39b6a668f4e0ba6f3351/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966" width="230">
-<p><em>Software Enginner at <a href="https://unsircle.id/">Unsircle</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Backend Enginner | Tech Enthusiast <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-razisyahputro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razisyahputro/)](https://www.linkedin.com/in/razi-aziz-syahputro/)
@@ -13,7 +13,7 @@
 
 ```javascript
 const razi = {
-  pronouns: "he" | "him",
+  pronouns: "he" | "him", | "his",
   code: [Javascript, Go, HTML, CSS, Markdown],
   Database: [MongoDB, Mysql, Postgre],
   tools: [Node, Git, Redis, RabbitMQ, Docker],
