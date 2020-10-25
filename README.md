@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-razisyahputro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razisyahputro/)](https://www.linkedin.com/in/razi-aziz-syahputro/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/razidev)
+[![GitHub Thaiane](https://img.shields.io/github/followers/razidev?label=follow&style=social)](https://github.com/razidev)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
