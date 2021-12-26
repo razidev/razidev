@@ -17,7 +17,7 @@ const razi = {
   pronouns: "he" | "him", | "his",
   code: [Javascript, Go, HTML, CSS, Markdown],
   Database: [MongoDB, Mysql, Postgre],
-  tools: [Node, Git, Redis, RabbitMQ, Docker],
+  tools: [NodeJS, Git, Redis, RabbitMQ, Docker],
   architecture: ["microservices", "event-driven", "monolithic"]
 }
 ```
