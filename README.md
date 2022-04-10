@@ -14,7 +14,7 @@
 
 ```javascript
 const razi = {
-  pronouns: "he" || "him" || "his",
+  pronouns: "he" || "him",
   code: [Javascript, Go, HTML, CSS, Markdown],
   Database: [MongoDB, Mysql, Postgre],
   tools: [NodeJS, Git, Redis, RabbitMQ, Docker],
