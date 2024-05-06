@@ -1,8 +1,8 @@
-<h2> Hi, I'm Razi Syahputro! <img src="https://media.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif" width="50"></h2>
+<h2> Hi, I'm Razi Syahputro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Backend Enginner | Tech Enthusiast </br>
 </em></p>
 <h5>I'm a full-time software engineer and passionate to coding and investing</h5>
-<img align='right' src="https://camo.githubusercontent.com/5d7bb187ae38dcf16cad39b6a668f4e0ba6f3351/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966" width="230">
+<img align='right' src="https://media.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif" width="230">
 
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-razisyahputro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razisyahputro/)](https://www.linkedin.com/in/razi-aziz-syahputro/)
