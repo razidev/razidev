@@ -1,4 +1,4 @@
-<h2> Hi, I'm Razi Syahputro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Razi Syahputro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif" width="50"></h2>
 <p><em>Backend Enginner | Tech Enthusiast </br>
 </em></p>
 <h5>I'm a full-time software engineer and passionate to coding and investing</h5>
