@@ -2,7 +2,7 @@
 <p><em>Backend Enginner | Tech Enthusiast </br>
 </em></p>
 <h5>I'm a full-time software engineer and passionate to coding and investing</h5>
-<img align='right' src="https://media.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/gist/brudnak/efd7b887bd7c0441d8bb88ae1c77374a/raw/4629432d2259da168960c36e3801642960e645cf/gopher-workout.gif" width="230">
 
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-razisyahputro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razisyahputro/)](https://www.linkedin.com/in/razi-aziz-syahputro/)
